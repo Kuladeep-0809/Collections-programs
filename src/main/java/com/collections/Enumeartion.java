@@ -15,7 +15,7 @@ public class Enumeartion{
 		Enumeration e =v.elements();
 		
 		while(e.hasMoreElements()) {
-			Integer I =(Integer)e.nextElement();
+			Integer I =(Integer)e.nextElement(); 
 			if (I %2 ==0) {
 				System.out.println(I);
 			}

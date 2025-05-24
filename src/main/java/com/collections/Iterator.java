@@ -20,7 +20,7 @@ public class Iterator {
 			if(I % 2==0) {
 				System.out.println(I);
 			}else {
-				itr.remove();
+				itr.remove(); 
 			}
 		}
 		
