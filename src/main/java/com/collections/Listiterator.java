@@ -18,10 +18,10 @@ public class Listiterator {
 		
 		while(itr.hasNext()) {
 			String str =(String)itr.next();
-			if(str.equals("Kuladeep")) {
+			if(str.equals("reddy")) {
 				itr.remove();
 			}
-			else if(str.equals("reddy")) {
+			else if(str.equals("mittapalli")) {
 				itr.add("super");
 			}
 			else if (str.equals("Software")) {
