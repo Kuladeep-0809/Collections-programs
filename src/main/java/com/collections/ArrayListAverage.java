@@ -1,7 +1,7 @@
 package com.collections;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Stream;
+//mport java.util.stream.Stream;
 
 public class ArrayListAverage {
 
