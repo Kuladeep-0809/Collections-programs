@@ -1,4 +1,4 @@
-package treeset;
+package com.treeset;
 
 import java.util.Comparator;
 
